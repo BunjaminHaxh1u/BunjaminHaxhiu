@@ -1,2 +1,0 @@
-# BunjaminHaxhiu
- Web Design Homework
