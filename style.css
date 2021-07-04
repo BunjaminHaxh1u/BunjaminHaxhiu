@@ -14,7 +14,7 @@ header{
     transition: 0.3s;
 }
 .logo img:hover{
-    content: url("BunjaminHaxhiu/img/logo.png");
+    content: url("img/logo.png");
 }
 .menu{
     display: flex;
